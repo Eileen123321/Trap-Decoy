@@ -4,7 +4,7 @@ from time import ctime
 import datetime
 from prettytable import PrettyTable
 import platform ### check OS
-### pop upo alert 
+### pop up alert 
 import tkinter as tk 
 from tkinter import messagebox
 
